@@ -1,0 +1,13 @@
+.vscode/
+node_modules/
+out/
+src/
+*ignore
+.gitlab-ci.yml
+.jsdoc.json
+.npmrc
+*.md
+*.sh
+*.tgz
+docker-compose*
+Dockerfile

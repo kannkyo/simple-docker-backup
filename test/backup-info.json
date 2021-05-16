@@ -1,0 +1,10 @@
+{
+    "containers": [
+        "zabbix_db"
+    ],
+    "scope": [
+        "container",
+        "image",
+        "volume"
+    ]
+}

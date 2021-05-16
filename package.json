@@ -1,0 +1,40 @@
+{
+  "name": "simple-docker-backup",
+  "version": "0.0.1",
+  "description": "Simple backup scripts for docker container",
+  "repository": "https://github.com/kannkyo/simple-docker-backup",
+  "author": "kannkyo <15080890+kannkyo@users.noreply.github.com>",
+  "license": "MIT",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
+  "bin": "./dist/main.js",
+  "scripts": {
+    "start": "node ./dist/main.js",
+    "build": "tsc",
+    "test": "nyc --reporter cobertura --reporter text-summary mocha --timeout 10000",
+    "doc": "npx typedoc",
+    "debug": "cross-env DEBUG=* npm run start",
+    "push": "git push --follow-tags origin master",
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "debug": "^4.3.1",
+    "dotenv": "^9.0.2"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/debug": "^4.1.5",
+    "@types/node": "^14.14.13",
+    "cross-env": "^7.0.3",
+    "jsdoc": "^3.6.7",
+    "jsdoc-to-markdown": "^7.0.1",
+    "minami": "^1.2.3",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "standard-version": "^9.3.0",
+    "ts-standard": "^10.0.0",
+    "typedoc": "^0.20.36",
+    "typescript": "^4.2.4"
+  }
+}
