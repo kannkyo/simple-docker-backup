@@ -1,14 +1,8 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning].
-
-## [Unreleased]
-
----
-
-## [Released]
+### 0.0.2 (2021-05-16)
 
 ## [0.0.1] - 2021-05-16
 
