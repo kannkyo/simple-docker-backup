@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.8...v0.0.9) (2021-05-19)
+
+
+### Fixed
+
+* **npm:** change publish config ([a575407](https://github.com/kannkyo/simple-docker-backup/commit/a5754070e8b90cf9be59607572db345700041496))
+
 ### [0.0.8](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.7...v0.0.8) (2021-05-19)
 
 
