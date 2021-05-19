@@ -7,7 +7,7 @@
     "resolveJsonModule": true,
     "outDir": "dist/"
   },
-  "include": ["src/**/*.ts", "tests/**/*.spec.ts"],
+  "include": ["src/**/*.ts"],
   "exclude": ["node_modules"],
   "ts-standard": {
     "ignore": [

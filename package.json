@@ -18,7 +18,8 @@
     "doc": "npx typedoc",
     "debug": "cross-env DEBUG=* npm run start",
     "push": "git push --follow-tags origin main",
-    "release": "standard-version"
+    "release": "npx standard-version",
+    "prepublishOnly": "npm run build"
   },
   "dependencies": {
     "commander": "^7.2.0",
