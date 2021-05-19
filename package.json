@@ -5,6 +5,9 @@
   "repository": "https://github.com/kannkyo/simple-docker-backup",
   "author": "kannkyo <15080890+kannkyo@users.noreply.github.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
   "bin": "./dist/main.js",
