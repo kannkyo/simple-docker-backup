@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.3...v0.0.4) (2021-05-19)
+
+
+### Fixed
+
+* typo on package.json ([cb0c63e](https://github.com/kannkyo/simple-docker-backup/commit/cb0c63e8f5c05db9ebd51a0687dfe1663d0b62cf))
+
+
+### Changed
+
+* package name ([26dc1b2](https://github.com/kannkyo/simple-docker-backup/commit/26dc1b236b700428ba44c0875e268f090298ee23))
+
 ### [0.0.3](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.2...v0.0.3) (2021-05-19)
 
 
