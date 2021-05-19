@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.7...v0.0.8) (2021-05-19)
+
+
+### Changed
+
+* **npm:** update lock file ([e9676fc](https://github.com/kannkyo/simple-docker-backup/commit/e9676fc24e215de1cd51c66fee3c2e1e6f73552f))
+
 ### [0.0.7](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.6...v0.0.7) (2021-05-19)
 
 ### [0.0.6](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.5...v0.0.6) (2021-05-19)
