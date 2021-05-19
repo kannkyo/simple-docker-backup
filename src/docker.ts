@@ -15,7 +15,7 @@ export class Volume {
 export class Container {
   volumes: Volume[]
 
-  constructor (public name: string) {
+  constructor (public readonly name: string) {
     const inspect = this.inspect()
     this.volumes = inspect[0].HostConfig.Binds.map((v: string) => new Volume(v))
   }
