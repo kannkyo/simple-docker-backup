@@ -1,6 +1,6 @@
 {
   "name": "@kannkyo/simple-docker-backup",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple backup scripts for docker container",
   "repository": "https://github.com/kannkyo/simple-docker-backup",
   "author": "kannkyo <15080890+kannkyo@users.noreply.github.com>",

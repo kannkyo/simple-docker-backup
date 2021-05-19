@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.4...v0.0.5) (2021-05-19)
+
+
+### Fixed
+
+* **github:** change visibility of npm registory ([4ee7b18](https://github.com/kannkyo/simple-docker-backup/commit/4ee7b18425ffcb1675cd56726028e948db54981e))
+
 ### [0.0.4](https://github.com/kannkyo/simple-docker-backup/compare/v0.0.3...v0.0.4) (2021-05-19)
 
 
