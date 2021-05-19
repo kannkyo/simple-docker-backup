@@ -12,10 +12,9 @@
     "start": "node ./dist/main.js",
     "build": "tsc",
     "test": "npx jest",
-    "test:coverage": "nyc --reporter cobertura --reporter text-summary mocha --timeout 10000",
     "doc": "npx typedoc",
     "debug": "cross-env DEBUG=* npm run start",
-    "push": "git push --follow-tags origin master",
+    "push": "git push --follow-tags origin main",
     "release": "standard-version"
   },
   "dependencies": {
